@@ -31,12 +31,12 @@ Holders of registered trademarks can report possible trademark policy violations
 
 In order to investigate trademark policy violations, please provide all of the following information:
 
-* Username of the reported account
-* Your company name
-* Your company GitHub account (if there is one)
+* Yuhannatunes
+* YUHANNA
+* Your company GitHub account (Yuhanna-Official)
 * Company website
-* Your trademarked word, symbol, etc.
-* Trademark registration number
+* YUHANNA
+* 
 * Trademark registration office (e.g., USPTO)
 * Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
 * Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
@@ -45,8 +45,8 @@ In order to investigate trademark policy violations, please provide all of the f
 * Include your physical or electronic signature.
 
 * Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:
-    * Your first and last name
-    * Title
-    * Address
-    * Phone
-    * Email (must be from company domain)
+    * sajjad Jamshidi Moghaddam
+    * Sound Recording
+    * W 33rd 315st, 2794-10001
+    * +989363049828
+    * Email (Support@yuhannatunes.ir)
